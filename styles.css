@@ -1,0 +1,23 @@
+li {
+    background-color: aqua;
+}
+
+ol li {
+    background-color: blueviolet;
+}
+
+/*
+CSS exempel
+https://www.w3schools.com/css/css_font.asp
+
+Flexbox
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://www.youtube.com/watch?v=Y8zMYaD1bz0&list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG
+
+responsivt 
+mediaquerys https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+
+animeringar
+https://loading.io/css/
+
+*/
